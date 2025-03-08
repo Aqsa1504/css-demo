@@ -23,5 +23,6 @@ The footer includes a copyright section, customizable with your name or brand.
 🔹 Improve responsiveness using CSS Flexbox or Grid.
 🔹 Enhance accessibility by following W3C guidelines.
 🔹 Integrate with a backend to handle product data dynamically.
+ଘ_ଓ
 
 
