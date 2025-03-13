@@ -1,4 +1,4 @@
-Product Showcase Website – HTML & CSS
+Product Showcase Website – HTML & CSS.
 Welcome to the Product Showcase Website, a simple yet elegant frontend project built using HTML and CSS. This webpage serves as a product listing page where you can display featured items in a structured and visually appealing manner.
 
 🎨 Overview
